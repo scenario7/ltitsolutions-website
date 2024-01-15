@@ -38,7 +38,7 @@ export default async function Solutions(){
   const customers = await getData()
 
   return(
-    <div className='min-h-screen flex flex-col justify-between'>
+    <div className='min-h-screen flex flex-col justify-between bg-[#101010]'>
     <div>
     <NavBar/>
         <h1 className='font-serif text-white text-4xl lg:text-6xl py-10  px-10'>Verticals</h1>
