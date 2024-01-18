@@ -19,7 +19,7 @@ const CustomFooter = () => {
         </div>
     </div>
     <div className="bg-blue-950 text-stone-300 py-2 text-xs text-center">
-        Designed and Developed by <span className=''> <a href='https://kevinstappen.vercel.app' target='_blank' className='underline hover:text-white'>Kevin Thomas</a></span> 
+        Designed and Developed by <span className=''> <a href='https://kevinthomas.in' target='_blank' className='underline hover:text-white'>Kevin Thomas</a></span> 
     </div>
     </div>
   )
