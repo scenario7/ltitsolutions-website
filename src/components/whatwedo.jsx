@@ -10,8 +10,8 @@ const WhatWeDo = () => {
         </svg>
 
     <div className='flex flex-col items-center lg:items-start md:items-start md:justify-start lg:justify-start w-80 md:pl-3 lg:pl-3 '>
-        <h1 className='font-sans text-md text-white text-left font-bold'>Technology for the next generation</h1>
-        <p className='font-sans text-xs lg:text-sm text-gray-400 text-center md:text-left lg:text-left'>Elevate safety and communication with cutting-edge AV and security solutions. Enhance your tech infrastructure for seamless operations and peace of mind.</p>
+        <h1 className='font-sans text-md text-white text-left font-bold'>Pioneers in Technical Integration</h1>
+        <p className='font-sans text-xs lg:text-sm text-gray-400 text-center md:text-left lg:text-left'>LT IT Solutions is a company that specialises in providing customers with technical solutions in various niche domains like audio/visual, security, 3d graphics and hospitality.</p>
     </div>
 </div>
 
@@ -21,8 +21,8 @@ const WhatWeDo = () => {
     </svg>
 
 <div className='flex flex-col items-center lg:items-start md:items-start md:justify-start lg:justify-start w-80 md:pl-3 lg:pl-3 '>
-    <h1 className='font-sans text-md text-white text-left font-bold'>Goal Driven</h1>
-    <p className='font-sans text-xs lg:text-sm text-gray-400 text-center md:text-left lg:text-left'>Transform your BMS with immersive 3D design. Visualize and optimize facility performance for efficiency and a futuristic user experience, aligned with your goals.</p>
+    <h1 className='font-sans text-md text-white text-left font-bold'>Hassle Free Service</h1>
+    <p className='font-sans text-xs lg:text-sm text-gray-400 text-center md:text-left lg:text-left'>We ensure that your needs are met from end to end, and do so with utmost efficiency so that you face no trouble in meeting your goals.</p>
 </div>
 </div>
 
@@ -32,8 +32,8 @@ const WhatWeDo = () => {
     </svg>
 
 <div className='flex flex-col items-center lg:items-start md:items-start md:justify-start lg:justify-start w-80 md:pl-3 lg:pl-3 '>
-    <h1 className='font-sans text-md text-white text-left font-bold'>Integration</h1>
-    <p className='font-sans text-xs lg:text-sm text-gray-400 text-center md:text-left lg:text-left'> Powering the future of data management and hospitality services. We seamlessly integrate software, bridging technology gaps for unparalleled business success and efficiency.</p>
+    <h1 className='font-sans text-md text-white text-left font-bold'>Years of Trust</h1>
+    <p className='font-sans text-xs lg:text-sm text-gray-400 text-center md:text-left lg:text-left'>As an established integrator in the United Arab Emirates, you can expect nothing but the best in terms of service.</p>
 </div>
 </div>
 
