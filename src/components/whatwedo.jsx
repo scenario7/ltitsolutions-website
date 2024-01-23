@@ -33,7 +33,7 @@ const WhatWeDo = () => {
 
 <div className='flex flex-col items-center lg:items-start md:items-start md:justify-start lg:justify-start w-80 md:pl-3 lg:pl-3 '>
     <h1 className='font-sans text-md text-white text-left font-bold'>Years of Trust</h1>
-    <p className='font-sans text-xs lg:text-sm text-gray-400 text-center md:text-left lg:text-left'>As an established integrator in the United Arab Emirates, you can expect nothing but the best in terms of service.</p>
+    <p className='font-sans text-xs lg:text-sm text-gray-400 text-center md:text-left lg:text-left'>As an established integrator in the United Arab Emirates you can expect nothing but the best in terms of service.</p>
 </div>
 </div>
 
