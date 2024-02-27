@@ -5,6 +5,7 @@ import NavBar from '@/components/navbar'
 import ProjectCard from '@/components/projectcard'
 import CustomFooter from '@/components/customfooter'
 import { RotateLoader } from 'react-spinners'
+import Head from 'next/head'
 
 
 async function getData(){
@@ -39,6 +40,10 @@ export default async function Solutions(){
 
   return(
     <div className='min-h-screen flex flex-col justify-between bg-stone-900'>
+    <Head>
+    <title>LT IT Solutions Services</title>
+    <meta name="LT IT Solutions" content="Take a look at the domains in which we operate. Contact us for help in your technological needs." />
+    </Head>
     <div>
       <NavBar />
       <div className='flex flex-col'>

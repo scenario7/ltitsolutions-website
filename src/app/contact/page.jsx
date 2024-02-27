@@ -1,10 +1,15 @@
 import React from 'react'
 import NavBar from '@/components/navbar'
 import CustomFooter from '@/components/customfooter'
+import Head from 'next/head'
 
 const Contact = () => {
   return (
     <div className='min-h-screen bg-stone-900 flex flex-col justify-between'>
+    <Head>
+    <title>Contact LT IT Solutions</title>
+    <meta name="Contact LT IT Solutions" content="Contact us for any help with setting up AV systems, IT Infrastructure and Hospitality Management systems." />
+    </Head>
 <NavBar />
 <div className="flex flex-col items-center">
       <form className="flex flex-col items-center min-w-full py-5 px-5 md:py-10 md:px-10">
