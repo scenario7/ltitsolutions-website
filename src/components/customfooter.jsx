@@ -19,8 +19,8 @@ const CustomFooter = () => {
         </div>
     </div>
     <div className="bg-blue-950 text-stone-300 py-2 text-xs text-center">
-        Designed and Developed by <span className=''> <a href='https://kevinthomas.in' target='_blank' className='underline hover:text-white'>Kevin Thomas</a></span> 
-    </div>
+        Designed and Developed by <span className=''> <a href='https://kevinthomas.in' target='_blank' className='underline hover:text-white'>Kevin Thomas </a></span> and <span className="className"><a href="www.linkedin.com/in/shreyansjohar" target='_blank' className='underline hover:text-beige'> Shreyans Johar </a></span>
+    </div> 
     </div>
   )
 }
